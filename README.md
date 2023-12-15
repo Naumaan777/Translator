@@ -2,7 +2,7 @@
 
 ![img_1](https://github.com/Naumaan777/Translator/assets/115418662/22b58280-1c0e-4e48-8cc5-bf89ccafaeb2)
 
-This project is an advanced application that uses Python to create a Language Translator. Here’s a more detailed breakdown:
+This project is an advanced application that uses Python to create a Language Translator.
 
 * Python: This application is built using Python, a popular high-level programming language known for its simplicity and wide range of libraries. Python’s simplicity makes it an ideal choice for developing a language translator.
 
