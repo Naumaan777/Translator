@@ -12,6 +12,6 @@ This project is an advanced application that uses Python to create a Language Tr
 
 * User Interface: The user interface of This application is likely built using a Python GUI library, such as Tkinter3. This allows users to easily interact with the application and get the translations they need.
 
-* Real-World Applications: The Language Translator application you’ve developed has numerous real-world applications. It can be used by individuals for personal use, by businesses to communicate with international clients, or by educators to teach languages.
+* Real-World Applications: The Language Translator application, I’ve developed has numerous real-world applications. It can be used by individuals for personal use, by businesses to communicate with international clients, or by educators to teach languages.
 
 Summary: This Language Translator project is a sophisticated tool that combines the power of Python and the Google Translate API to provide users with an easy-to-use language translation service.
